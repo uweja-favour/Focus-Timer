@@ -19,7 +19,12 @@ A simple, user-friendly timer application built using **Jetpack Compose**. This 
 
 ## Screenshots
 
-_(You can include screenshots or gifs here to showcase the UI and functionality.)_
+_(Screenshots or gifs here to showcase the UI and functionality.)_
+##
+
+<img src="https://github.com/uweja-favour/Focus-Timer/blob/main/FocusTimer.png" alt="Home Screen" width="300"/> <img src="https://github.com/uweja-favour/Focus-Timer/blob/main/FocusTimer.png" alt="Home Screen" width="300"/>
+
+
 
 ## Code Structure
 
