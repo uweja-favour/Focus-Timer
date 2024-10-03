@@ -23,7 +23,7 @@ _(Screenshots or gifs here to showcase the UI and functionality.)_
 ##
 
 
-<img src="https://github.com/uweja-favour/Focus-Timer/blob/main/screenshots/FocusTimer.png" alt="Home Screen" width="300"/> <img src="https://github.com/uweja-favour/Focus-Timer/blob/main/screenshots/FocusTimer.png" alt="Home Screen" width="300"/>
+<img src="https://github.com/uweja-favour/Focus-Timer/blob/main/screenshots/FocusTimer.png" alt="Home Screen" width="300"/> <img src="https://github.com/uweja-favour/Focus-Timer/blob/main/screenshots/FocusTimer2.png" alt="Home Screen" width="300"/>
 
 
 ##
