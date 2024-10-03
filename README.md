@@ -100,7 +100,7 @@ Row(
 Clone the Repository:
 
 
-git clone https://github.com/uweja-favour/timer-app.git
+git clone https://github.com/uweja-favour/Focus-Timer.git
 cd timer-app
 
 ### Open the Project: Open the project in Android Studio.
